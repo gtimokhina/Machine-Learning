@@ -1,0 +1,337 @@
+location,report_date,location_type,country,value,province,county,city,latitude,longitude,max_temp,min_temp,dew_point,precipitation,wind
+Argentina-Buenos_Aires,2016-03-19,province,Argentina,130,Buenos Aires,None,None,-34.6075682,-58.4370894,69.97,60.83,48.97,0.0002,13.82
+Argentina-Buenos_Aires,2016-03-26,province,Argentina,148,Buenos Aires,None,None,-34.6075682,-58.4370894,72.43,63.38,60.02,0.0,12.01
+Argentina-Buenos_Aires,2016-04-02,province,Argentina,190,Buenos Aires,None,None,-34.6075682,-58.4370894,76.75,63.36,66.07,0.004,5.81
+Argentina-Buenos_Aires,2016-04-09,province,Argentina,199,Buenos Aires,None,None,-34.6075682,-58.4370894,70.23,57.67,59.68,0.0004,10.78
+Argentina-Buenos_Aires,2016-04-16,province,Argentina,207,Buenos Aires,None,None,-34.6075682,-58.4370894,78.63,63.3,64.6,0.0,8.57
+Argentina-Buenos_Aires,2016-04-29,province,Argentina,212,Buenos Aires,None,None,-34.6075682,-58.4370894,61.08,42.55,42.1,0.0,7.48
+Argentina-Buenos_Aires,2016-05-07,province,Argentina,382,Buenos Aires,None,None,-34.6075682,-58.4370894,59.21,52.43,46.89,0.0,9.13
+Argentina-Buenos_Aires,2016-05-14,province,Argentina,227,Buenos Aires,None,None,-34.6075682,-58.4370894,57.51,54.19,50.37,0.0,5.69
+Argentina-Buenos_Aires,2016-05-22,province,Argentina,359,Buenos Aires,None,None,-34.6075682,-58.4370894,59.36,43.57,45.28,0.0,2.97
+Argentina-Buenos_Aires,2016-05-30,province,Argentina,240,Buenos Aires,None,None,-34.6075682,-58.4370894,57.22,50.91,53.15,0.0,8.43
+Argentina-Buenos_Aires,2016-06-06,province,Argentina,241,Buenos Aires,None,None,-34.6075682,-58.4370894,57.82,45.27,43.0,0.0,8.27
+Argentina-Buenos_Aires,2016-06-13,province,Argentina,246,Buenos Aires,None,None,-34.6075682,-58.4370894,56.68,42.02,41.02,0.0,5.96
+Argentina-Buenos_Aires,2016-06-18,province,Argentina,246,Buenos Aires,None,None,-34.6075682,-58.4370894,65.13,44.63,46.09,0.0,3.66
+Argentina-Buenos_Aires,2016-06-26,province,Argentina,252,Buenos Aires,None,None,-34.6075682,-58.4370894,51.66,50.53,45.84,0.0,15.4
+Argentina-CABA,2016-03-19,province,Argentina,78,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,69.97,60.83,48.97,0.0002,13.82
+Argentina-CABA,2016-03-26,province,Argentina,92,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,72.43,63.38,60.02,0.0,12.01
+Argentina-CABA,2016-04-02,province,Argentina,94,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,76.75,63.36,66.07,0.004,5.81
+Argentina-CABA,2016-04-09,province,Argentina,97,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,70.23,57.67,59.68,0.0004,10.78
+Argentina-CABA,2016-04-16,province,Argentina,98,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,78.63,63.3,64.6,0.0,8.57
+Argentina-CABA,2016-04-29,province,Argentina,101,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,61.08,42.55,42.1,0.0,7.48
+Argentina-CABA,2016-05-07,province,Argentina,255,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,59.21,52.43,46.89,0.0,9.13
+Argentina-CABA,2016-05-14,province,Argentina,126,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,57.51,54.19,50.37,0.0,5.69
+Argentina-CABA,2016-05-22,province,Argentina,260,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,59.36,43.57,45.28,0.0,2.97
+Argentina-CABA,2016-05-30,province,Argentina,132,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,57.22,50.91,53.15,0.0,8.43
+Argentina-CABA,2016-06-06,province,Argentina,134,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,57.82,45.27,43.0,0.0,8.27
+Argentina-CABA,2016-06-13,province,Argentina,136,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,56.68,42.02,41.02,0.0,5.96
+Argentina-CABA,2016-06-18,province,Argentina,136,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,65.13,44.63,46.09,0.0,3.66
+Argentina-CABA,2016-06-26,province,Argentina,160,Ciudad de Buenos Aires,None,None,-34.6075682,-58.4370894,51.66,50.53,45.84,0.0,15.4
+Argentina-Catamarca,2016-03-19,province,Argentina,14,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-03-26,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-04-02,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-04-09,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-04-16,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-04-29,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-05-07,province,Argentina,16,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-05-14,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-05-22,province,Argentina,16,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-05-30,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-06-06,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-06-13,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-06-18,province,Argentina,15,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Catamarca,2016-06-26,province,Argentina,16,Catamarca,None,None,-27.1910825,-67.105374,,,,,
+Argentina-Chaco,2016-03-19,province,Argentina,48,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-03-26,province,Argentina,52,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-04-02,province,Argentina,55,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-04-09,province,Argentina,58,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-04-16,province,Argentina,61,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-04-29,province,Argentina,62,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-05-07,province,Argentina,133,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-05-14,province,Argentina,69,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-05-22,province,Argentina,133,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-05-30,province,Argentina,69,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-06-06,province,Argentina,69,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-06-13,province,Argentina,69,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-06-18,province,Argentina,69,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chaco,2016-06-26,province,Argentina,70,Chaco,None,None,-26.3829647,-60.88160920000001,,,,,
+Argentina-Chubut,2016-03-19,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-03-26,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-04-02,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-04-09,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-04-16,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-04-29,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-05-07,province,Argentina,5,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-05-14,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-05-22,province,Argentina,5,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-05-30,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-06-06,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-06-13,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-06-18,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Chubut,2016-06-26,province,Argentina,6,Chubut,None,None,-43.712835600000005,-68.74618170000001,,,,,
+Argentina-Cordoba,2016-03-19,province,Argentina,25,Cordoba,None,None,-31.4173391,-64.183319,62.27,52.13,48.94,0.0,3.88
+Argentina-Cordoba,2016-03-26,province,Argentina,25,Cordoba,None,None,-31.4173391,-64.183319,75.82,54.03,56.78,0.0,1.8
+Argentina-Cordoba,2016-04-02,province,Argentina,26,Cordoba,None,None,-31.4173391,-64.183319,78.0,63.54,65.16,0.0143,3.49
+Argentina-Cordoba,2016-04-09,province,Argentina,29,Cordoba,None,None,-31.4173391,-64.183319,64.06,57.09,56.23,0.001,4.35
+Argentina-Cordoba,2016-04-16,province,Argentina,33,Cordoba,None,None,-31.4173391,-64.183319,75.86,62.48,63.98,0.0112,4.79
+Argentina-Cordoba,2016-04-29,province,Argentina,33,Cordoba,None,None,-31.4173391,-64.183319,64.21,47.53,44.84,0.0,1.65
+Argentina-Cordoba,2016-05-07,province,Argentina,360,Cordoba,None,None,-31.4173391,-64.183319,66.94,54.5,51.34,0.0,1.44
+Argentina-Cordoba,2016-05-14,province,Argentina,36,Cordoba,None,None,-31.4173391,-64.183319,64.1,52.88,51.49,0.0,1.85
+Argentina-Cordoba,2016-05-22,province,Argentina,365,Cordoba,None,None,-31.4173391,-64.183319,62.64,41.8,45.28,0.0,1.05
+Argentina-Cordoba,2016-05-30,province,Argentina,42,Cordoba,None,None,-31.4173391,-64.183319,68.92,43.05,47.9,0.0,1.43
+Argentina-Cordoba,2016-06-06,province,Argentina,43,Cordoba,None,None,-31.4173391,-64.183319,63.1,40.97,40.89,0.0002,1.1
+Argentina-Cordoba,2016-06-13,province,Argentina,45,Cordoba,None,None,-31.4173391,-64.183319,68.62,40.14,36.07,0.0,3.61
+Argentina-Cordoba,2016-06-18,province,Argentina,45,Cordoba,None,None,-31.4173391,-64.183319,68.51,39.09,37.72,0.0,1.81
+Argentina-Cordoba,2016-06-26,province,Argentina,45,Cordoba,None,None,-31.4173391,-64.183319,43.12,39.45,39.82,0.0127,6.98
+Argentina-Corrientes,2016-03-19,province,Argentina,20,Corrientes,None,None,-27.25619375,-58.31727613192303,72.5,14.34,14.23,0.0,6.37
+Argentina-Corrientes,2016-03-26,province,Argentina,20,Corrientes,None,None,-27.25619375,-58.31727613192303,61.35,28.47,31.4,0.0,6.95
+Argentina-Corrientes,2016-04-02,province,Argentina,20,Corrientes,None,None,-27.25619375,-58.31727613192303,96.78,45.18,55.91,0.0,10.23
+Argentina-Corrientes,2016-04-09,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,76.7,45.4,35.26,0.0,6.58
+Argentina-Corrientes,2016-04-16,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,92.39,22.61,68.78,0.0,11.05
+Argentina-Corrientes,2016-04-29,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,57.83,41.82,36.29,0.0,3.89
+Argentina-Corrientes,2016-05-07,province,Argentina,18,Corrientes,None,None,-27.25619375,-58.31727613192303,71.82,38.36,41.63,0.0,4.86
+Argentina-Corrientes,2016-05-14,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,61.6,39.84,34.84,0.0,3.89
+Argentina-Corrientes,2016-05-22,province,Argentina,18,Corrientes,None,None,-27.25619375,-58.31727613192303,70.98,42.66,36.98,0.0,6.92
+Argentina-Corrientes,2016-05-30,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,66.97,47.85,52.09,0.0,4.62
+Argentina-Corrientes,2016-06-06,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,61.4,38.68,43.66,0.0,6.54
+Argentina-Corrientes,2016-06-13,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,65.41,49.21,37.23,0.0,5.17
+Argentina-Corrientes,2016-06-18,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,67.26,41.74,42.71,0.0,5.26
+Argentina-Corrientes,2016-06-26,province,Argentina,21,Corrientes,None,None,-27.25619375,-58.31727613192303,88.14,47.13,50.72,0.0,6.49
+Argentina-Entre_Rios,2016-03-19,province,Argentina,28,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-03-26,province,Argentina,29,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-04-02,province,Argentina,30,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-04-09,province,Argentina,33,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-04-16,province,Argentina,36,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-04-29,province,Argentina,37,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-05-07,province,Argentina,61,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-05-14,province,Argentina,41,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-05-22,province,Argentina,63,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-05-30,province,Argentina,43,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-06-06,province,Argentina,43,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-06-13,province,Argentina,44,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-06-18,province,Argentina,44,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Entre_Rios,2016-06-26,province,Argentina,44,Entre Rios,None,None,-31.6252842,-59.353957799999996,,,,,
+Argentina-Formosa,2016-03-19,province,Argentina,8,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-03-26,province,Argentina,8,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-04-02,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-04-09,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-04-16,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-04-29,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-05-07,province,Argentina,6,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-05-14,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-05-22,province,Argentina,6,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-05-30,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-06-06,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-06-13,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-06-18,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Formosa,2016-06-26,province,Argentina,9,Formosa,None,None,-24.5955306,-60.4289718,,,,,
+Argentina-Jujuy,2016-03-19,province,Argentina,245,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-03-26,province,Argentina,303,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-04-02,province,Argentina,354,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-04-09,province,Argentina,428,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-04-16,province,Argentina,511,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-04-29,province,Argentina,598,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-05-07,province,Argentina,919,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-05-14,province,Argentina,704,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-05-22,province,Argentina,994,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-05-30,province,Argentina,744,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-06-06,province,Argentina,750,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-06-13,province,Argentina,766,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-06-18,province,Argentina,766,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-Jujuy,2016-06-26,province,Argentina,770,Jujuy,None,None,-23.3161458,-65.7595288,,,,,
+Argentina-La_Pampa,2016-03-19,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-03-26,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-04-02,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-04-09,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-04-16,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-04-29,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-05-07,province,Argentina,0,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-05-14,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-05-22,province,Argentina,0,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-05-30,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-06-06,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-06-13,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-06-18,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Pampa,2016-06-26,province,Argentina,2,La Pampa,None,None,-37.2314643,-65.3972948,,,,,
+Argentina-La_Rioja,2016-03-19,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-03-26,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-04-02,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-04-09,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-04-16,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-04-29,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-05-07,province,Argentina,2,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-05-14,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-05-22,province,Argentina,2,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-05-30,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-06-06,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-06-13,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-06-18,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-La_Rioja,2016-06-26,province,Argentina,3,La Rioja,None,None,-29.972978100000002,-67.0487944,,,,,
+Argentina-Mendoza,2016-03-19,province,Argentina,13,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-03-26,province,Argentina,13,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-04-02,province,Argentina,16,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-04-09,province,Argentina,16,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-04-16,province,Argentina,16,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-04-29,province,Argentina,16,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-05-07,province,Argentina,43,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-05-14,province,Argentina,17,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-05-22,province,Argentina,43,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-05-30,province,Argentina,19,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-06-06,province,Argentina,19,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-06-13,province,Argentina,19,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-06-18,province,Argentina,19,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Mendoza,2016-06-26,province,Argentina,19,Mendoza,None,None,-34.78719615,-68.43807123826872,,,,,
+Argentina-Misiones,2016-03-19,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-03-26,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-04-02,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-04-09,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-04-16,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-04-29,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-05-07,province,Argentina,9,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-05-14,province,Argentina,6,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-05-22,province,Argentina,11,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-05-30,province,Argentina,7,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-06-06,province,Argentina,7,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-06-13,province,Argentina,7,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-06-18,province,Argentina,7,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Misiones,2016-06-26,province,Argentina,7,Misiones,None,None,-26.737223999999998,-54.4315257,,,,,
+Argentina-Neuquen,2016-03-19,province,Argentina,16,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-03-26,province,Argentina,16,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-04-02,province,Argentina,19,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-04-09,province,Argentina,19,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-04-16,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-04-29,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-05-07,province,Argentina,19,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-05-14,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-05-22,province,Argentina,19,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-05-30,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-06-06,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-06-13,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-06-18,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Neuquen,2016-06-26,province,Argentina,20,Neuquen,None,None,-38.369505700000005,-69.832275,,,,,
+Argentina-Rio_Negro,2016-03-19,province,Argentina,5,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-03-26,province,Argentina,5,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-04-02,province,Argentina,6,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-04-09,province,Argentina,7,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-04-16,province,Argentina,8,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-04-29,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-05-07,province,Argentina,11,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-05-14,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-05-22,province,Argentina,11,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-05-30,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-06-06,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-06-13,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-06-18,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Rio_Negro,2016-06-26,province,Argentina,9,Rio Negro,None,None,-40.4811973,-67.6145911,,,,,
+Argentina-Salta,2016-03-19,province,Argentina,62,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-03-26,province,Argentina,65,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-04-02,province,Argentina,70,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-04-09,province,Argentina,72,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-04-16,province,Argentina,80,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-04-29,province,Argentina,82,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-05-07,province,Argentina,397,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-05-14,province,Argentina,95,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-05-22,province,Argentina,407,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-05-30,province,Argentina,100,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-06-06,province,Argentina,101,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-06-13,province,Argentina,104,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-06-18,province,Argentina,104,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-Salta,2016-06-26,province,Argentina,106,Salta,None,None,-25.1076701,-64.3494964,,,,,
+Argentina-San_Juan,2016-03-19,province,Argentina,0,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-03-26,province,Argentina,0,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-04-02,province,Argentina,0,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-04-09,province,Argentina,0,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-04-16,province,Argentina,0,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-04-29,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-05-07,province,Argentina,2,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-05-14,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-05-22,province,Argentina,2,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-05-30,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-06-06,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-06-13,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-06-18,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Juan,2016-06-26,province,Argentina,1,San Juan,None,None,-30.705436300000002,-69.19882220000001,,,,,
+Argentina-San_Luis,2016-03-19,province,Argentina,9,San Luis,None,None,-33.2762202,-65.9515546,69.93,53.54,43.14,0.0,2.2
+Argentina-San_Luis,2016-03-26,province,Argentina,9,San Luis,None,None,-33.2762202,-65.9515546,86.99,54.71,56.46,0.0,1.18
+Argentina-San_Luis,2016-04-02,province,Argentina,9,San Luis,None,None,-33.2762202,-65.9515546,81.96,63.91,60.81,0.0009,4.76
+Argentina-San_Luis,2016-04-09,province,Argentina,10,San Luis,None,None,-33.2762202,-65.9515546,,,,,
+Argentina-San_Luis,2016-04-16,province,Argentina,10,San Luis,None,None,-33.2762202,-65.9515546,69.97,52.7,59.62,0.0013,6.48
+Argentina-San_Luis,2016-04-29,province,Argentina,10,San Luis,None,None,-33.2762202,-65.9515546,66.96,41.92,41.21,0.0,1.97
+Argentina-San_Luis,2016-05-07,province,Argentina,15,San Luis,None,None,-33.2762202,-65.9515546,65.16,51.92,53.19,0.0,1.06
+Argentina-San_Luis,2016-05-14,province,Argentina,10,San Luis,None,None,-33.2762202,-65.9515546,63.93,50.55,54.57,0.0036,1.35
+Argentina-San_Luis,2016-05-22,province,Argentina,15,San Luis,None,None,-33.2762202,-65.9515546,66.92,41.94,44.65,0.0,1.45
+Argentina-San_Luis,2016-05-30,province,Argentina,10,San Luis,None,None,-33.2762202,-65.9515546,53.19,37.88,46.7,0.0,0.96
+Argentina-San_Luis,2016-06-06,province,Argentina,12,San Luis,None,None,-33.2762202,-65.9515546,63.92,39.58,37.46,0.0,1.74
+Argentina-San_Luis,2016-06-13,province,Argentina,12,San Luis,None,None,-33.2762202,-65.9515546,69.12,40.68,38.93,0.0,1.7
+Argentina-San_Luis,2016-06-18,province,Argentina,12,San Luis,None,None,-33.2762202,-65.9515546,72.9,40.41,35.8,0.0,1.18
+Argentina-San_Luis,2016-06-26,province,Argentina,11,San Luis,None,None,-33.2762202,-65.9515546,35.98,31.17,34.66,0.0311,2.64
+Argentina-Santa_Cruz,2016-03-19,province,Argentina,7,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-03-26,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-04-02,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-04-09,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-04-16,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-04-29,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-05-07,province,Argentina,6,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-05-14,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-05-22,province,Argentina,6,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-05-30,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-06-06,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-06-13,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-06-18,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Cruz,2016-06-26,province,Argentina,9,Santa Cruz,None,None,-48.569332700000004,-70.1606767,,,,,
+Argentina-Santa_Fe,2016-03-19,province,Argentina,15,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-03-26,province,Argentina,16,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-04-02,province,Argentina,19,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-04-09,province,Argentina,23,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-04-16,province,Argentina,30,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-04-29,province,Argentina,31,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-05-07,province,Argentina,43,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-05-14,province,Argentina,35,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-05-22,province,Argentina,43,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-05-30,province,Argentina,36,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-06-06,province,Argentina,36,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-06-13,province,Argentina,38,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-06-18,province,Argentina,38,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Santa_Fe,2016-06-26,province,Argentina,38,Santa Fe,None,None,-30.3154739,-61.1645076,,,,,
+Argentina-Sgo_Del_Estero,2016-03-19,province,Argentina,4,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-03-26,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-04-02,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-04-09,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-04-16,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-04-29,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-05-07,province,Argentina,4,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-05-14,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-05-22,province,Argentina,4,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-05-30,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-06-06,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-06-13,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-06-18,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Sgo_Del_Estero,2016-06-26,province,Argentina,6,Santiago Del Estero,None,None,-27.6431016,-63.5408542,,,,,
+Argentina-Tierra_Del_Fuego,2016-04-29,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-05-07,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-05-14,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-05-22,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-05-30,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-06-06,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-06-13,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-06-18,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_Del_Fuego,2016-06-26,province,Argentina,0,Tierra Del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_del_Fuego,2016-03-19,province,Argentina,0,Tierra del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_del_Fuego,2016-03-26,province,Argentina,0,Tierra del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_del_Fuego,2016-04-02,province,Argentina,0,Tierra del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_del_Fuego,2016-04-09,province,Argentina,0,Tierra del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tierra_del_Fuego,2016-04-16,province,Argentina,0,Tierra del Fuego,None,None,-54.4071064,-67.8974895,,,,,
+Argentina-Tucuman,2016-03-19,province,Argentina,36,Tucuman,None,None,-26.5643582,-64.882397,56.97,53.91,55.28,0.0,5.44
+Argentina-Tucuman,2016-03-26,province,Argentina,36,Tucuman,None,None,-26.5643582,-64.882397,73.37,61.11,61.03,0.0,4.79
+Argentina-Tucuman,2016-04-02,province,Argentina,37,Tucuman,None,None,-26.5643582,-64.882397,82.32,66.52,69.08,0.0,6.91
+Argentina-Tucuman,2016-04-09,province,Argentina,38,Tucuman,None,None,-26.5643582,-64.882397,65.97,59.31,64.75,0.0,3.2
+Argentina-Tucuman,2016-04-16,province,Argentina,38,Tucuman,None,None,-26.5643582,-64.882397,85.65,64.71,71.32,0.0,6.11
+Argentina-Tucuman,2016-04-29,province,Argentina,39,Tucuman,None,None,-26.5643582,-64.882397,64.39,50.21,48.21,0.0,4.58
+Argentina-Tucuman,2016-05-07,province,Argentina,71,Tucuman,None,None,-26.5643582,-64.882397,58.77,53.91,56.29,0.0,3.54
+Argentina-Tucuman,2016-05-14,province,Argentina,41,Tucuman,None,None,-26.5643582,-64.882397,60.56,55.71,57.46,0.0,4.86
+Argentina-Tucuman,2016-05-22,province,Argentina,77,Tucuman,None,None,-26.5643582,-64.882397,64.09,44.92,46.81,0.0,2.79
+Argentina-Tucuman,2016-05-30,province,Argentina,89,Tucuman,None,None,-26.5643582,-64.882397,62.46,43.25,47.92,0.0,4.14
+Argentina-Tucuman,2016-06-06,province,Argentina,85,Tucuman,None,None,-26.5643582,-64.882397,51.7,37.71,45.29,0.0,4.2
+Argentina-Tucuman,2016-06-13,province,Argentina,94,Tucuman,None,None,-26.5643582,-64.882397,58.77,39.38,43.09,0.0,4.24
+Argentina-Tucuman,2016-06-18,province,Argentina,94,Tucuman,None,None,-26.5643582,-64.882397,62.5,50.31,46.38,0.0,4.53
+Argentina-Tucuman,2016-06-26,province,Argentina,99,Tucuman,None,None,-26.5643582,-64.882397,55.3,39.64,42.63,0.0,5.03
